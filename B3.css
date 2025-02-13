@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.first{
+    padding: 15px;
+}
+.cont1{
+    color: #41455e;
+}
+.cont2{
+    color: #4d4d4d;
+}
